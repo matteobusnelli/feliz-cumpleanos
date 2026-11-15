@@ -1,6 +1,6 @@
 /* Service worker: tutto il gioco resta in cache e funziona anche senza connessione.
    Per pubblicare una nuova versione basta cambiare VERSION. */
-const VERSION = 'feliz-v1';
+const VERSION = 'feliz-v2';
 const ASSETS = [
   "./",
   "icons/apple-touch-icon.png",
